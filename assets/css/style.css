@@ -60,5 +60,5 @@ body{
                     width: 128px;
                     height: 96px;
                     display: inline-block;
-                    align: absmiddle;
+                    /* align: absmiddle; */
                 }
